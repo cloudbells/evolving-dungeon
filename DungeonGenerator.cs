@@ -119,10 +119,6 @@
                         } while (!wasSuccess);
                     }
                 }
-                //foreach (Cell cell in dungeon.Cells) // No cells are immune now. // TODO: can i remove this?
-                //{
-                //    cell.IsImmune = false;
-                //}
             }
         }
 
